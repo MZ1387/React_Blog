@@ -6,7 +6,11 @@ A simple blogging application. Using Create, Read, Update, Destroy routes
 
 - React
 - Redux
+- Redux Form
+- Axios
+- lodash
 
 ## Concepts Implemented
 
--
+- Using Get, Post, Delete Request
+- BrowserRouter, Switch, Route
